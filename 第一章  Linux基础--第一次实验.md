@@ -12,7 +12,7 @@
 
 - 虚拟机：**Virtualbox**
   Ubuntu 20.04 Server 64bit
-- 宿主机：**ROG 幻14**
+- 宿主机：**ROG ZEPHYRUS14**
   Windows 10 家庭版
 
 ### 实验过程与程序代码
